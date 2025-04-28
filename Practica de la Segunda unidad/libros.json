@@ -1,0 +1,3737 @@
+[
+  {
+    "titulo": "Cien anos de soledad",
+    "codigo": "LIB001",
+    "autor": "Gabriel Garcia Marquez",
+    "categoria": "Novela",
+    "genero": "Realismo magico",
+    "editorial": "Editorial Sudamericana",
+    "anio_publicacion": 1967
+  },
+  {
+    "titulo": "1984",
+    "codigo": "LIB002",
+    "autor": "George Orwell",
+    "categoria": "Novela",
+    "genero": "Distopia",
+    "editorial": "Secker & Warburg",
+    "anio_publicacion": 1949
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "codigo": "LIB003",
+    "autor": "Jane Austen",
+    "categoria": "Novela",
+    "genero": "Romance",
+    "editorial": "T. Egerton, Whitehall",
+    "anio_publicacion": 1813
+  },
+  {
+    "titulo": "El nombre del viento",
+    "codigo": "LIB004",
+    "autor": "Patrick Rothfuss",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "DAW Books",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "Los juegos del hambre",
+    "codigo": "LIB005",
+    "autor": "Suzanne Collins",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Scholastic Press",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "El senor de los anillos",
+    "codigo": "LIB006",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Novela",
+    "genero": "Fantasia epica",
+    "editorial": "Allen & Unwin",
+    "anio_publicacion": 1954
+  },
+  {
+    "titulo": "To Kill a Mockingbird",
+    "codigo": "LIB007",
+    "autor": "Harper Lee",
+    "categoria": "Novela",
+    "genero": "Drama",
+    "editorial": "J.B. Lippincott & Co.",
+    "anio_publicacion": 1960
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "codigo": "LIB008",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Novela",
+    "genero": "Novela",
+    "editorial": "Francisco de Robles",
+    "anio_publicacion": 1605
+  },
+  {
+    "titulo": "La sombra del viento",
+    "codigo": "LIB009",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Novela",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2001
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "codigo": "HP001",
+    "autor": "J.K. Rowling",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 1997
+  },
+  {
+    "titulo": "Harry Potter y la camara secreta",
+    "codigo": "HP002",
+    "autor": "J.K. Rowling",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 1998
+  },
+  {
+    "titulo": "Harry Potter y el prisionero de Azkaban",
+    "codigo": "HP003",
+    "autor": "J.K. Rowling",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 1999
+  },
+  {
+    "titulo": "Harry Potter y el caliz de fuego",
+    "codigo": "HP004",
+    "autor": "J.K. Rowling",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 2000
+  },
+  {
+    "titulo": "Harry Potter y la orden del Fenix",
+    "codigo": "HP005",
+    "autor": "J.K. Rowling",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 2003
+  },
+  {
+    "titulo": "Harry Potter y el misterio del principe",
+    "codigo": "HP006",
+    "autor": "J.K. Rowling",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "Harry Potter y las Reliquias de la Muerte",
+    "codigo": "HP007",
+    "autor": "J.K. Rowling",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "Erase una vez un corazon roto",
+    "codigo": "GAR001",
+    "autor": "Stephanie Garber",
+    "categoria": "Novela",
+    "genero": "Fantasia romantica",
+    "editorial": "Puck",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "El heredero oscuro",
+    "codigo": "ROK001",
+    "autor": "C.A. Soto",
+    "categoria": "Novela",
+    "genero": "Fantasia oscura",
+    "editorial": "Autopublicado",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El legado oscuro",
+    "codigo": "ROK002",
+    "autor": "C.A. Soto",
+    "categoria": "Novela",
+    "genero": "Fantasia oscura",
+    "editorial": "Autopublicado",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "El destino oscuro",
+    "codigo": "ROK003",
+    "autor": "C.A. Soto",
+    "categoria": "Novela",
+    "genero": "Fantasia oscura",
+    "editorial": "Autopublicado",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Caraval",
+    "codigo": "CAR001",
+    "autor": "Stephanie Garber",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Flatiron Books",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Legendary",
+    "codigo": "CAR002",
+    "autor": "Stephanie Garber",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Flatiron Books",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Finale",
+    "codigo": "CAR003",
+    "autor": "Stephanie Garber",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Flatiron Books",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El alquimista",
+    "codigo": "LIB010",
+    "autor": "Paulo Coelho",
+    "categoria": "Novela",
+    "genero": "Ficcion filosofica",
+    "editorial": "HarperOne",
+    "anio_publicacion": 1988
+  },
+  {
+    "titulo": "Cronica de una muerte anunciada",
+    "codigo": "LIB011",
+    "autor": "Gabriel Garcia Marquez",
+    "categoria": "Novela",
+    "genero": "Realismo magico",
+    "editorial": "La Oveja Negra",
+    "anio_publicacion": 1981
+  },
+  {
+    "titulo": "El hobbit",
+    "codigo": "LIB012",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Allen & Unwin",
+    "anio_publicacion": 1937
+  },
+  {
+    "titulo": "El principito",
+    "codigo": "LIB013",
+    "autor": "Antoine de Saint-Exupery",
+    "categoria": "Novela",
+    "genero": "Fabula",
+    "editorial": "Reynal & Hitchcock",
+    "anio_publicacion": 1943
+  },
+  {
+    "titulo": "Matar a un ruisenor",
+    "codigo": "LIB014",
+    "autor": "Harper Lee",
+    "categoria": "Novela",
+    "genero": "Drama",
+    "editorial": "J.B. Lippincott & Co.",
+    "anio_publicacion": 1960
+  },
+  {
+    "titulo": "Un mundo feliz",
+    "codigo": "LIB015",
+    "autor": "Aldous Huxley",
+    "categoria": "Novela",
+    "genero": "Distopia",
+    "editorial": "Chatto & Windus",
+    "anio_publicacion": 1932
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "codigo": "LIB016",
+    "autor": "Ray Bradbury",
+    "categoria": "Novela",
+    "genero": "Distopia",
+    "editorial": "Ballantine Books",
+    "anio_publicacion": 1953
+  },
+  {
+    "titulo": "La Odisea",
+    "codigo": "LIB017",
+    "autor": "Homero",
+    "categoria": "Poema epico",
+    "genero": "Epopeya",
+    "editorial": "Clasicos Griegos",
+    "anio_publicacion": -800
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "codigo": "LIB018",
+    "autor": "Fiodor Dostoievski",
+    "categoria": "Novela",
+    "genero": "Novela psicologica",
+    "editorial": "El Mensajero Ruso",
+    "anio_publicacion": 1866
+  },
+  {
+    "titulo": "Las cronicas de Narnia: El leon, la bruja y el armario",
+    "codigo": "LIB019",
+    "autor": "C.S. Lewis",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Geoffrey Bles",
+    "anio_publicacion": 1950
+  },
+  {
+    "titulo": "El gran Gatsby",
+    "codigo": "LIB020",
+    "autor": "F. Scott Fitzgerald",
+    "categoria": "Novela",
+    "genero": "Drama",
+    "editorial": "Charles Scribner's Sons",
+    "anio_publicacion": 1925
+  },
+  {
+    "titulo": "Dune",
+    "codigo": "LIB021",
+    "autor": "Frank Herbert",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Chilton Books",
+    "anio_publicacion": 1965
+  },
+  {
+    "titulo": "El codigo Da Vinci",
+    "codigo": "LIB022",
+    "autor": "Dan Brown",
+    "categoria": "Novela",
+    "genero": "Thriller",
+    "editorial": "Doubleday",
+    "anio_publicacion": 2003
+  },
+  {
+    "titulo": "El retrato de Dorian Gray",
+    "codigo": "LIB023",
+    "autor": "Oscar Wilde",
+    "categoria": "Novela",
+    "genero": "Novela gotica",
+    "editorial": "Lippincott's Monthly Magazine",
+    "anio_publicacion": 1890
+  },
+  {
+    "titulo": "Los miserables",
+    "codigo": "LIB024",
+    "autor": "Victor Hugo",
+    "categoria": "Novela",
+    "genero": "Novela historica",
+    "editorial": "A. Lacroix, Verboeckhoven & Cie.",
+    "anio_publicacion": 1862
+  },
+  {
+    "titulo": "Moby Dick",
+    "codigo": "LIB025",
+    "autor": "Herman Melville",
+    "categoria": "Novela",
+    "genero": "Aventura",
+    "editorial": "Richard Bentley",
+    "anio_publicacion": 1851
+  },
+  {
+    "titulo": "Dracula",
+    "codigo": "LIB026",
+    "autor": "Bram Stoker",
+    "categoria": "Novela",
+    "genero": "Terror",
+    "editorial": "Archibald Constable and Company",
+    "anio_publicacion": 1897
+  },
+  {
+    "titulo": "Anna Karenina",
+    "codigo": "LIB027",
+    "autor": "Leon Tolstoi",
+    "categoria": "Novela",
+    "genero": "Realismo",
+    "editorial": "The Russian Messenger",
+    "anio_publicacion": 1877
+  },
+  {
+    "titulo": "El proceso",
+    "codigo": "LIB028",
+    "autor": "Franz Kafka",
+    "categoria": "Novela",
+    "genero": "Novela filosofica",
+    "editorial": "Verlag Die Schmiede",
+    "anio_publicacion": 1925
+  },
+  {
+    "titulo": "Romeo y Julieta",
+    "codigo": "LIB029",
+    "autor": "William Shakespeare",
+    "categoria": "Teatro",
+    "genero": "Tragedia",
+    "editorial": "John Danter",
+    "anio_publicacion": 1597
+  },
+  {
+    "titulo": "Los pilares de la Tierra",
+    "codigo": "LIB030",
+    "autor": "Ken Follett",
+    "categoria": "Novela",
+    "genero": "Novela historica",
+    "editorial": "William Morrow",
+    "anio_publicacion": 1989
+  },
+  {
+    "titulo": "It",
+    "codigo": "LIB031",
+    "autor": "Stephen King",
+    "categoria": "Novela",
+    "genero": "Terror",
+    "editorial": "Viking Press",
+    "anio_publicacion": 1986
+  },
+  {
+    "titulo": "El Silmarillion",
+    "codigo": "LIB032",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Allen & Unwin",
+    "anio_publicacion": 1977
+  },
+  {
+    "titulo": "Rebelion en la granja",
+    "codigo": "LIB033",
+    "autor": "George Orwell",
+    "categoria": "Novela",
+    "genero": "Satira politica",
+    "editorial": "Secker & Warburg",
+    "anio_publicacion": 1945
+  },
+  {
+    "titulo": "Los juegos del hambre: En llamas",
+    "codigo": "LIB034",
+    "autor": "Suzanne Collins",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Scholastic Press",
+    "anio_publicacion": 2009
+  },
+  {
+    "titulo": "Los juegos del hambre: Sinsajo",
+    "codigo": "LIB035",
+    "autor": "Suzanne Collins",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Scholastic Press",
+    "anio_publicacion": 2010
+  },
+  {
+    "titulo": "El temor de un hombre sabio",
+    "codigo": "LIB036",
+    "autor": "Patrick Rothfuss",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "DAW Books",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "El laberinto de los espiritus",
+    "codigo": "LIB037",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Novela",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Rayuela",
+    "codigo": "LIB038",
+    "autor": "Julio Cortazar",
+    "categoria": "Novela",
+    "genero": "Novela experimental",
+    "editorial": "Editorial Sudamericana",
+    "anio_publicacion": 1963
+  },
+  {
+    "titulo": "Pedro Paramo",
+    "codigo": "LIB039",
+    "autor": "Juan Rulfo",
+    "categoria": "Novela",
+    "genero": "Realismo magico",
+    "editorial": "Fondo de Cultura Economica",
+    "anio_publicacion": 1955
+  },
+  {
+    "titulo": "La casa de los espiritus",
+    "codigo": "LIB040",
+    "autor": "Isabel Allende",
+    "categoria": "Novela",
+    "genero": "Realismo magico",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 1982
+  },
+  {
+    "titulo": "El amor en los tiempos del colera",
+    "codigo": "LIB041",
+    "autor": "Gabriel Garcia Marquez",
+    "categoria": "Novela",
+    "genero": "Romance",
+    "editorial": "Editorial Oveja Negra",
+    "anio_publicacion": 1985
+  },
+  {
+    "titulo": "Norwegian Wood",
+    "codigo": "LIB042",
+    "autor": "Haruki Murakami",
+    "categoria": "Novela",
+    "genero": "Drama",
+    "editorial": "Kodansha",
+    "anio_publicacion": 1987
+  },
+  {
+    "titulo": "Kafka en la orilla",
+    "codigo": "LIB043",
+    "autor": "Haruki Murakami",
+    "categoria": "Novela",
+    "genero": "Realismo magico",
+    "editorial": "Tusquets",
+    "anio_publicacion": 2002
+  },
+  {
+    "titulo": "Tokio Blues",
+    "codigo": "LIB044",
+    "autor": "Haruki Murakami",
+    "categoria": "Novela",
+    "genero": "Drama",
+    "editorial": "Tusquets",
+    "anio_publicacion": 1987
+  },
+  {
+    "titulo": "La insoportable levedad del ser",
+    "codigo": "LIB045",
+    "autor": "Milan Kundera",
+    "categoria": "Novela",
+    "genero": "Novela filosofica",
+    "editorial": "Gallimard",
+    "anio_publicacion": 1984
+  },
+  {
+    "titulo": "El guardian entre el centeno",
+    "codigo": "LIB046",
+    "autor": "J.D. Salinger",
+    "categoria": "Novela",
+    "genero": "Novela",
+    "editorial": "Little, Brown and Company",
+    "anio_publicacion": 1951
+  },
+  {
+    "titulo": "La naranja mecanica",
+    "codigo": "LIB047",
+    "autor": "Anthony Burgess",
+    "categoria": "Novela",
+    "genero": "Distopia",
+    "editorial": "William Heinemann",
+    "anio_publicacion": 1962
+  },
+  {
+    "titulo": "El lobo estepario",
+    "codigo": "LIB048",
+    "autor": "Hermann Hesse",
+    "categoria": "Novela",
+    "genero": "Novela filosofica",
+    "editorial": "S. Fischer Verlag",
+    "anio_publicacion": 1927
+  },
+  {
+    "titulo": "La metamorfosis",
+    "codigo": "LIB049",
+    "autor": "Franz Kafka",
+    "categoria": "Novela",
+    "genero": "Novela corta",
+    "editorial": "Kurt Wolff Verlag",
+    "anio_publicacion": 1915
+  },
+  {
+    "titulo": "La divina comedia",
+    "codigo": "LIB050",
+    "autor": "Dante Alighieri",
+    "categoria": "Poesia",
+    "genero": "Poema epico",
+    "editorial": "Literatura Medieval",
+    "anio_publicacion": 1320
+  },
+  {
+    "titulo": "El viejo y el mar",
+    "codigo": "LIB051",
+    "autor": "Ernest Hemingway",
+    "categoria": "Novela",
+    "genero": "Novela corta",
+    "editorial": "Charles Scribner's Sons",
+    "anio_publicacion": 1952
+  },
+  {
+    "titulo": "Hamlet",
+    "codigo": "LIB052",
+    "autor": "William Shakespeare",
+    "categoria": "Teatro",
+    "genero": "Tragedia",
+    "editorial": "Nicholas Ling & John Trundell",
+    "anio_publicacion": 1603
+  },
+  {
+    "titulo": "La Iliada",
+    "codigo": "LIB053",
+    "autor": "Homero",
+    "categoria": "Poema epico",
+    "genero": "Epopeya",
+    "editorial": "Clasicos Griegos",
+    "anio_publicacion": -800
+  },
+  {
+    "titulo": "El resplandor",
+    "codigo": "LIB054",
+    "autor": "Stephen King",
+    "categoria": "Novela",
+    "genero": "Terror",
+    "editorial": "Doubleday",
+    "anio_publicacion": 1977
+  },
+  {
+    "titulo": "La carretera",
+    "codigo": "LIB055",
+    "autor": "Cormac McCarthy",
+    "categoria": "Novela",
+    "genero": "Post-apocaliptico",
+    "editorial": "Alfred A. Knopf",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "American Gods",
+    "codigo": "LIB056",
+    "autor": "Neil Gaiman",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "William Morrow",
+    "anio_publicacion": 2001
+  },
+  {
+    "titulo": "El cuento de la criada",
+    "codigo": "LIB057",
+    "autor": "Margaret Atwood",
+    "categoria": "Novela",
+    "genero": "Distopia",
+    "editorial": "McClelland & Stewart",
+    "anio_publicacion": 1985
+  },
+  {
+    "titulo": "La carretera menos transitada",
+    "codigo": "LIB058",
+    "autor": "M. Scott Peck",
+    "categoria": "No ficcion",
+    "genero": "Autoayuda",
+    "editorial": "Simon & Schuster",
+    "anio_publicacion": 1978
+  },
+  {
+    "titulo": "Sapiens: De animales a dioses",
+    "codigo": "LIB059",
+    "autor": "Yuval Noah Harari",
+    "categoria": "No ficcion",
+    "genero": "Historia",
+    "editorial": "Debate",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "21 lecciones para el siglo XXI",
+    "codigo": "LIB060",
+    "autor": "Yuval Noah Harari",
+    "categoria": "No ficcion",
+    "genero": "Ensayo",
+    "editorial": "Debate",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Una breve historia del tiempo",
+    "codigo": "LIB061",
+    "autor": "Stephen Hawking",
+    "categoria": "No ficcion",
+    "genero": "Ciencia",
+    "editorial": "Bantam Books",
+    "anio_publicacion": 1988
+  },
+  {
+    "titulo": "El poder de los habitos",
+    "codigo": "LIB062",
+    "autor": "Charles Duhigg",
+    "categoria": "No ficcion",
+    "genero": "Autoayuda",
+    "editorial": "Random House",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Los hombres que no amaban a las mujeres",
+    "codigo": "LIB063",
+    "autor": "Stieg Larsson",
+    "categoria": "Novela",
+    "genero": "Novela negra",
+    "editorial": "Norstedts Forlag",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "El problema de los tres cuerpos",
+    "codigo": "LIB064",
+    "autor": "Liu Cixin",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Chongqing Publishing Group",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "La chica del tren",
+    "codigo": "LIB065",
+    "autor": "Paula Hawkins",
+    "categoria": "Novela",
+    "genero": "Thriller psicologico",
+    "editorial": "Riverhead Books",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Bajo la misma estrella",
+    "codigo": "LIB066",
+    "autor": "John Green",
+    "categoria": "Novela",
+    "genero": "Romance juvenil",
+    "editorial": "Dutton Books",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Eleanor & Park",
+    "codigo": "LIB067",
+    "autor": "Rainbow Rowell",
+    "categoria": "Novela",
+    "genero": "Romance juvenil",
+    "editorial": "St. Martin's Press",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "Los siete maridos de Evelyn Hugo",
+    "codigo": "LIB068",
+    "autor": "Taylor Jenkins Reid",
+    "categoria": "Novela",
+    "genero": "Drama",
+    "editorial": "Atria Books",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Una educacion mortal",
+    "codigo": "LIB069",
+    "autor": "Naomi Novik",
+    "categoria": "Novela",
+    "genero": "Fantasia oscura",
+    "editorial": "Del Rey Books",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "La cancion de Aquiles",
+    "codigo": "LIB070",
+    "autor": "Madeline Miller",
+    "categoria": "Novela",
+    "genero": "Novela historica",
+    "editorial": "Ecco",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "Circe",
+    "codigo": "LIB071",
+    "autor": "Madeline Miller",
+    "categoria": "Novela",
+    "genero": "Novela historica",
+    "editorial": "Little, Brown and Company",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El Psicoanalista",
+    "codigo": "LIB072",
+    "autor": "John Katzenbach",
+    "categoria": "Novela",
+    "genero": "Thriller psicologico",
+    "editorial": "Ballantine Books",
+    "anio_publicacion": 2002
+  },
+  {
+    "titulo": "Un mundo sin fin",
+    "codigo": "LIB073",
+    "autor": "Ken Follett",
+    "categoria": "Novela",
+    "genero": "Novela historica",
+    "editorial": "Pan Books",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "La corte de rosas y espinas",
+    "codigo": "LIB074",
+    "autor": "Sarah J. Maas",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury Publishing",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "El Prisionero del Cielo",
+    "codigo": "LIB075",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Novela",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "El juego del angel",
+    "codigo": "LIB076",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Novela",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "Trono de Cristal",
+    "codigo": "LIB077",
+    "autor": "Sarah J. Maas",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Bloomsbury Publishing",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Mujercitas",
+    "codigo": "LIB078",
+    "autor": "Louisa May Alcott",
+    "categoria": "Novela",
+    "genero": "Clasico",
+    "editorial": "Roberts Brothers",
+    "anio_publicacion": 1868
+  },
+  {
+    "titulo": "El conde de Montecristo",
+    "codigo": "LIB079",
+    "autor": "Alexandre Dumas",
+    "categoria": "Novela",
+    "genero": "Aventura",
+    "editorial": "Journal des debats",
+    "anio_publicacion": 1845
+  },
+  {
+    "titulo": "La historia interminable",
+    "codigo": "LIB080",
+    "autor": "Michael Ende",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Thienemann Verlag",
+    "anio_publicacion": 1979
+  },
+  {
+    "titulo": "El perfume",
+    "codigo": "LIB081",
+    "autor": "Patrick Suskind",
+    "categoria": "Novela",
+    "genero": "Novela historica",
+    "editorial": "Diogenes Verlag",
+    "anio_publicacion": 1985
+  },
+  {
+    "titulo": "El clan del oso cavernario",
+    "codigo": "LIB082",
+    "autor": "Jean M. Auel",
+    "categoria": "Novela",
+    "genero": "Ficcion prehistorica",
+    "editorial": "Crown Publishers",
+    "anio_publicacion": 1980
+  },
+  {
+    "titulo": "Cumbres borrascosas",
+    "codigo": "LIB083",
+    "autor": "Emily Bronte",
+    "categoria": "Novela",
+    "genero": "Novela gotica",
+    "editorial": "Thomas Cautley Newby",
+    "anio_publicacion": 1847
+  },
+  {
+    "titulo": "Lolita",
+    "codigo": "LIB084",
+    "autor": "Vladimir Nabokov",
+    "categoria": "Novela",
+    "genero": "Novela contemporanea",
+    "editorial": "Olympia Press",
+    "anio_publicacion": 1955
+  },
+  {
+    "titulo": "La fundacion",
+    "codigo": "LIB085",
+    "autor": "Isaac Asimov",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Gnome Press",
+    "anio_publicacion": 1951
+  },
+  {
+    "titulo": "El senor de las moscas",
+    "codigo": "LIB086",
+    "autor": "William Golding",
+    "categoria": "Novela",
+    "genero": "Novela alegorica",
+    "editorial": "Faber and Faber",
+    "anio_publicacion": 1954
+  },
+  {
+    "titulo": "Los detectives salvajes",
+    "codigo": "LIB087",
+    "autor": "Roberto Bolano",
+    "categoria": "Novela",
+    "genero": "Novela contemporanea",
+    "editorial": "Anagrama",
+    "anio_publicacion": 1998
+  },
+  {
+    "titulo": "La sutil arte de que te importe un carajo",
+    "codigo": "LIB088",
+    "autor": "Mark Manson",
+    "categoria": "No ficcion",
+    "genero": "Autoayuda",
+    "editorial": "HarperOne",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Cronica del pajaro que da cuerda al mundo",
+    "codigo": "LIB089",
+    "autor": "Haruki Murakami",
+    "categoria": "Novela",
+    "genero": "Realismo magico",
+    "editorial": "Shinchosha",
+    "anio_publicacion": 1994
+  },
+  {
+    "titulo": "Misery",
+    "codigo": "LIB090",
+    "autor": "Stephen King",
+    "categoria": "Novela",
+    "genero": "Terror psicologico",
+    "editorial": "Viking Press",
+    "anio_publicacion": 1987
+  },
+  {
+    "titulo": "Juego de Tronos",
+    "codigo": "LIB091",
+    "autor": "George R.R. Martin",
+    "categoria": "Novela",
+    "genero": "Fantasia epica",
+    "editorial": "Bantam Books",
+    "anio_publicacion": 1996
+  },
+  {
+    "titulo": "Seis de cuervos",
+    "codigo": "LIB092",
+    "autor": "Leigh Bardugo",
+    "categoria": "Novela",
+    "genero": "Fantasia juvenil",
+    "editorial": "Henry Holt and Company",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "La vida invisible de Addie LaRue",
+    "codigo": "LIB093",
+    "autor": "V.E. Schwab",
+    "categoria": "Novela",
+    "genero": "Fantasia",
+    "editorial": "Tor Books",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Dune: Mesias",
+    "codigo": "LIB094",
+    "autor": "Frank Herbert",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Putnam Publishing",
+    "anio_publicacion": 1969
+  },
+  {
+    "titulo": "Las brujas",
+    "codigo": "LIB095",
+    "autor": "Roald Dahl",
+    "categoria": "Novela",
+    "genero": "Literatura infantil",
+    "editorial": "Jonathan Cape",
+    "anio_publicacion": 1983
+  },
+  {
+    "titulo": "La guerra de los mundos",
+    "codigo": "LIB096",
+    "autor": "H.G. Wells",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "William Heinemann",
+    "anio_publicacion": 1898
+  },
+  {
+    "titulo": "La quinta estacion",
+    "codigo": "LIB097",
+    "autor": "N.K. Jemisin",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Orbit Books",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Coraline",
+    "codigo": "LIB098",
+    "autor": "Neil Gaiman",
+    "categoria": "Novela",
+    "genero": "Novela gotica infantil",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 2002
+  },
+  {
+    "titulo": "Los hijos de Hurin",
+    "codigo": "LIB099",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Novela",
+    "genero": "Fantasia epica",
+    "editorial": "HarperCollins",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "El fin de la eternidad",
+    "codigo": "LIB100",
+    "autor": "Isaac Asimov",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Doubleday",
+    "anio_publicacion": 1955
+  },
+  {
+    "titulo": "El fin de la eternidad",
+    "codigo": "LIB100",
+    "autor": "Isaac Asimov",
+    "categoria": "Novela",
+    "genero": "Ciencia ficcion",
+    "editorial": "Doubleday",
+    "anio_publicacion": 1955
+  },
+  {
+    "titulo": "El principe cruel",
+    "codigo": "LIB101",
+    "autor": "Holly Black",
+    "categoria": "Juvenil",
+    "genero": "Fantasia",
+    "editorial": "Editorial Hidra",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Una educacion mortal",
+    "codigo": "LIB102",
+    "autor": "Naomi Novik",
+    "categoria": "Juvenil",
+    "genero": "Fantasia oscura",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "La cancion de Aquiles",
+    "codigo": "LIB103",
+    "autor": "Madeline Miller",
+    "categoria": "Ficcion historica",
+    "genero": "Mitologia griega",
+    "editorial": "Bloomsbury",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "A traves de mi ventana",
+    "codigo": "LIB104",
+    "autor": "Ariana Godoy",
+    "categoria": "Romance Juvenil",
+    "genero": "Ficcion contemporanea",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Seis de cuervos",
+    "codigo": "LIB105",
+    "autor": "Leigh Bardugo",
+    "categoria": "Fantasia",
+    "genero": "Aventura",
+    "editorial": "Hidra",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "El juego del alma",
+    "codigo": "LIB106",
+    "autor": "Javier Castillo",
+    "categoria": "Thriller",
+    "genero": "Suspenso",
+    "editorial": "Suma",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "El mapa de los anhelos",
+    "codigo": "LIB107",
+    "autor": "Alice Kellen",
+    "categoria": "Juvenil",
+    "genero": "Romance",
+    "editorial": "Planeta",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Coraline",
+    "codigo": "LIB108",
+    "autor": "Neil Gaiman",
+    "categoria": "Fantasia",
+    "genero": "Terror juvenil",
+    "editorial": "Roca Editorial",
+    "anio_publicacion": 2002
+  },
+  {
+    "titulo": "Cazadores de sombras: Ciudad de hueso",
+    "codigo": "LIB109",
+    "autor": "Cassandra Clare",
+    "categoria": "Fantasia juvenil",
+    "genero": "Aventura",
+    "editorial": "Destino",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "El legado de la sombra",
+    "codigo": "LIB110",
+    "autor": "Veronica Roth",
+    "categoria": "Aventura",
+    "genero": "Aventura",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Los cuervos del crepusculo",
+    "codigo": "LIB111",
+    "autor": "Kiera Cass",
+    "categoria": "Ciencia ficcion",
+    "genero": "Magia",
+    "editorial": "Puck",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Tempestad de magia",
+    "codigo": "LIB112",
+    "autor": "Jay Kristoff",
+    "categoria": "Ciencia ficcion",
+    "genero": "Magia",
+    "editorial": "Destino",
+    "anio_publicacion": 2024
+  },
+  {
+    "titulo": "Las marcas del alma",
+    "codigo": "LIB113",
+    "autor": "Amie Kaufman",
+    "categoria": "Ficcion",
+    "genero": "Magia",
+    "editorial": "SM",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El libro de los destinos",
+    "codigo": "LIB114",
+    "autor": "Rick Riordan",
+    "categoria": "Fantasia juvenil",
+    "genero": "Magia",
+    "editorial": "SM",
+    "anio_publicacion": 2024
+  },
+  {
+    "titulo": "Luz y cenizas",
+    "codigo": "LIB115",
+    "autor": "Victoria Aveyard",
+    "categoria": "Fantasia juvenil",
+    "genero": "Distopia",
+    "editorial": "Planeta",
+    "anio_publicacion": 2024
+  },
+  {
+    "titulo": "Los ojos de la oscuridad",
+    "codigo": "LIB116",
+    "autor": "Amie Kaufman",
+    "categoria": "Fantasia juvenil",
+    "genero": "Aventura",
+    "editorial": "Destino",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "Las marcas del alma",
+    "codigo": "LIB117",
+    "autor": "Leigh Bardugo",
+    "categoria": "Fantasia juvenil",
+    "genero": "Romance juvenil",
+    "editorial": "Destino",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "Fronteras del olvido",
+    "codigo": "LIB118",
+    "autor": "Amie Kaufman",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "RBA",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "Los siete sellos",
+    "codigo": "LIB119",
+    "autor": "Rick Riordan",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Hidra",
+    "anio_publicacion": 2024
+  },
+  {
+    "titulo": "La profecia olvidada",
+    "codigo": "LIB120",
+    "autor": "Adam Silvera",
+    "categoria": "Aventura",
+    "genero": "Distopia",
+    "editorial": "Planeta",
+    "anio_publicacion": 2010
+  },
+  {
+    "titulo": "El libro de los destinos",
+    "codigo": "LIB121",
+    "autor": "Marie Lu",
+    "categoria": "Fantasia juvenil",
+    "genero": "Magia",
+    "editorial": "Planeta",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "Legado de los antiguos",
+    "codigo": "LIB122",
+    "autor": "Tracy Deonn",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Puck",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "El reloj de las almas",
+    "codigo": "LIB123",
+    "autor": "Amie Kaufman",
+    "categoria": "Ciencia ficcion",
+    "genero": "Romance juvenil",
+    "editorial": "RBA",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "Caminos de hielo",
+    "codigo": "LIB124",
+    "autor": "Marie Lu",
+    "categoria": "Fantasia juvenil",
+    "genero": "Romance juvenil",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "Rituales prohibidos",
+    "codigo": "LIB125",
+    "autor": "Tahereh Mafi",
+    "categoria": "Ficcion",
+    "genero": "Aventura",
+    "editorial": "SM",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "Susurros del inframundo",
+    "codigo": "LIB126",
+    "autor": "Sabaa Tahir",
+    "categoria": "Fantasia juvenil",
+    "genero": "Romance juvenil",
+    "editorial": "SM",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "Secretos del bosque",
+    "codigo": "LIB127",
+    "autor": "Kiera Cass",
+    "categoria": "Ficcion",
+    "genero": "Magia",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El reloj de las almas",
+    "codigo": "LIB128",
+    "autor": "Amie Kaufman",
+    "categoria": "Ficcion",
+    "genero": "Aventura",
+    "editorial": "RBA",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "La torre del destino",
+    "codigo": "LIB129",
+    "autor": "Adam Silvera",
+    "categoria": "Aventura",
+    "genero": "Aventura",
+    "editorial": "RBA",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "El canto del dragon",
+    "codigo": "LIB130",
+    "autor": "Marissa Meyer",
+    "categoria": "Ciencia ficcion",
+    "genero": "Romance juvenil",
+    "editorial": "Gran Travesia",
+    "anio_publicacion": 2009
+  },
+  {
+    "titulo": "Magia en la niebla",
+    "codigo": "LIB131",
+    "autor": "Amie Kaufman",
+    "categoria": "Fantasia juvenil",
+    "genero": "Magia",
+    "editorial": "RBA",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Cazadores del alba",
+    "codigo": "LIB132",
+    "autor": "James Dashner",
+    "categoria": "Ficcion",
+    "genero": "Magia",
+    "editorial": "Hidra",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "El reino escondido",
+    "codigo": "LIB133",
+    "autor": "Marie Lu",
+    "categoria": "Ciencia ficcion",
+    "genero": "Romance juvenil",
+    "editorial": "Planeta",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "Los siete sellos",
+    "codigo": "LIB134",
+    "autor": "Amie Kaufman",
+    "categoria": "Ciencia ficcion",
+    "genero": "Fantasia",
+    "editorial": "Destino",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El libro de los destinos",
+    "codigo": "LIB135",
+    "autor": "Victoria Aveyard",
+    "categoria": "Ciencia ficcion",
+    "genero": "Romance juvenil",
+    "editorial": "Puck",
+    "anio_publicacion": 2023
+  },
+  {
+    "titulo": "Cantos de guerra",
+    "codigo": "LIB136",
+    "autor": "Tracy Deonn",
+    "categoria": "Ciencia ficcion",
+    "genero": "Fantasia",
+    "editorial": "Hidra",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Mareas oscuras",
+    "codigo": "LIB137",
+    "autor": "Rick Riordan",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Destino",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Laberinto de cristal",
+    "codigo": "LIB138",
+    "autor": "Marie Lu",
+    "categoria": "Aventura",
+    "genero": "Romance juvenil",
+    "editorial": "Montena",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Hijos del trueno",
+    "codigo": "LIB139",
+    "autor": "Amie Kaufman",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Planeta",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "El viajero de los reinos",
+    "codigo": "LIB140",
+    "autor": "Adam Silvera",
+    "categoria": "Fantasia juvenil",
+    "genero": "Romance juvenil",
+    "editorial": "RBA",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "Los herederos del fuego",
+    "codigo": "LIB141",
+    "autor": "Sabaa Tahir",
+    "categoria": "Ciencia ficcion",
+    "genero": "Aventura",
+    "editorial": "Planeta",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "Magia en la niebla",
+    "codigo": "LIB142",
+    "autor": "Veronica Roth",
+    "categoria": "Aventura",
+    "genero": "Romance juvenil",
+    "editorial": "Hidra",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "La torre del destino",
+    "codigo": "LIB143",
+    "autor": "Amie Kaufman",
+    "categoria": "Aventura",
+    "genero": "Magia",
+    "editorial": "Gran Travesia",
+    "anio_publicacion": 2009
+  },
+  {
+    "titulo": "El pacto olvidado",
+    "codigo": "LIB144",
+    "autor": "Amie Kaufman",
+    "categoria": "Aventura",
+    "genero": "Magia",
+    "editorial": "Puck",
+    "anio_publicacion": 2010
+  },
+  {
+    "titulo": "Reyes del caos",
+    "codigo": "LIB145",
+    "autor": "Rick Riordan",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Gran Travesia",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "Los cuervos del crepusculo",
+    "codigo": "LIB146",
+    "autor": "Tracy Deonn",
+    "categoria": "Ciencia ficcion",
+    "genero": "Fantasia",
+    "editorial": "Hidra",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Luz y cenizas",
+    "codigo": "LIB147",
+    "autor": "Tracy Deonn",
+    "categoria": "Aventura",
+    "genero": "Aventura",
+    "editorial": "SM",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "Los ojos de la oscuridad",
+    "codigo": "LIB148",
+    "autor": "Sarah J. Maas",
+    "categoria": "Fantasia juvenil",
+    "genero": "Romance juvenil",
+    "editorial": "Planeta",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Hijos del trueno",
+    "codigo": "LIB149",
+    "autor": "Amie Kaufman",
+    "categoria": "Aventura",
+    "genero": "Fantasia",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Los ojos de la oscuridad",
+    "codigo": "LIB150",
+    "autor": "Kiera Cass",
+    "categoria": "Ciencia ficcion",
+    "genero": "Magia",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "El imperio final",
+    "codigo": "LIB151",
+    "autor": "Brandon Sanderson",
+    "categoria": "Fantasia",
+    "genero": "Alta fantasia",
+    "editorial": "Nova",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "Seis de cuervos",
+    "codigo": "LIB152",
+    "autor": "Leigh Bardugo",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Hidra",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Un cuento perfecto",
+    "codigo": "LIB153",
+    "autor": "Elisabet Benavent",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Suma",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "La cancion de Aquiles",
+    "codigo": "LIB154",
+    "autor": "Madeline Miller",
+    "categoria": "Ficcion historica",
+    "genero": "Mitologia",
+    "editorial": "AdN",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Dune",
+    "codigo": "LIB155",
+    "autor": "Frank Herbert",
+    "categoria": "Ciencia ficcion",
+    "genero": "Space opera",
+    "editorial": "Debolsillo",
+    "anio_publicacion": 1965
+  },
+  {
+    "titulo": "El principe cruel",
+    "codigo": "LIB156",
+    "autor": "Holly Black",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia oscura",
+    "editorial": "Hidra",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El nombre del viento",
+    "codigo": "LIB157",
+    "autor": "Patrick Rothfuss",
+    "categoria": "Fantasia",
+    "genero": "Alta fantasia",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "Nosotros en la luna",
+    "codigo": "LIB158",
+    "autor": "Alice Kellen",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Planeta",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Red Queen",
+    "codigo": "LIB159",
+    "autor": "Victoria Aveyard",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Oceano Gran Travesia",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "La guerra de las brujas",
+    "codigo": "LIB160",
+    "autor": "Maite Carranza",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Edebe",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "El dia que se perdio la cordura",
+    "codigo": "LIB161",
+    "autor": "Javier Castillo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Suma",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "La biblioteca de la medianoche",
+    "codigo": "LIB162",
+    "autor": "Matt Haig",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Fantasia",
+    "editorial": "Alianza",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "A traves de mi ventana",
+    "codigo": "LIB163",
+    "autor": "Ariana Godoy",
+    "categoria": "Romance juvenil",
+    "genero": "Romance",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Caraval",
+    "codigo": "LIB164",
+    "autor": "Stephanie Garber",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Planeta",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "La sombra del viento",
+    "codigo": "LIB165",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Misterio",
+    "genero": "Ficcion historica",
+    "editorial": "Planeta",
+    "anio_publicacion": 2001
+  },
+  {
+    "titulo": "Una corte de rosas y espinas",
+    "codigo": "LIB166",
+    "autor": "Sarah J. Maas",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia romantica",
+    "editorial": "Planeta",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "El infinito en un junco",
+    "codigo": "LIB167",
+    "autor": "Irene Vallejo",
+    "categoria": "No ficcion",
+    "genero": "Ensayo historico",
+    "editorial": "Siruela",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Los juegos del hambre",
+    "codigo": "LIB168",
+    "autor": "Suzanne Collins",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Molino",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "Bajo la misma estrella",
+    "codigo": "LIB169",
+    "autor": "John Green",
+    "categoria": "Novela juvenil",
+    "genero": "Romance",
+    "editorial": "Nube de Tinta",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "El monje que vendio su Ferrari",
+    "codigo": "LIB170",
+    "autor": "Robin Sharma",
+    "categoria": "Autoayuda",
+    "genero": "Desarrollo personal",
+    "editorial": "Grijalbo",
+    "anio_publicacion": 1996
+  },
+  {
+    "titulo": "Reina roja",
+    "codigo": "LIB171",
+    "autor": "Juan Gomez-Jurado",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Invisible",
+    "codigo": "LIB172",
+    "autor": "Eloy Moreno",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Nube de Tinta",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Cronicas marcianas",
+    "codigo": "LIB173",
+    "autor": "Ray Bradbury",
+    "categoria": "Ciencia ficcion",
+    "genero": "Ciencia ficcion clasica",
+    "editorial": "Minotauro",
+    "anio_publicacion": 1950
+  },
+  {
+    "titulo": "La chica de nieve",
+    "codigo": "LIB174",
+    "autor": "Javier Castillo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Suma",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Heartstopper",
+    "codigo": "LIB175",
+    "autor": "Alice Oseman",
+    "categoria": "Novela grafica",
+    "genero": "Romance juvenil",
+    "editorial": "Crossbooks",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El silencio de las palabras",
+    "codigo": "LIB176",
+    "autor": "Jean Kwok",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Suma",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Antes de diciembre",
+    "codigo": "LIB177",
+    "autor": "Joana Marcus",
+    "categoria": "Romance juvenil",
+    "genero": "Romance",
+    "editorial": "Montena",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "Memorias de Idhun",
+    "codigo": "LIB178",
+    "autor": "Laura Gallego",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "SM",
+    "anio_publicacion": 2004
+  },
+  {
+    "titulo": "Todo lo que nunca fuimos",
+    "codigo": "LIB179",
+    "autor": "Alice Kellen",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Planeta",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El ultimo deseo",
+    "codigo": "LIB180",
+    "autor": "Andrzej Sapkowski",
+    "categoria": "Fantasia",
+    "genero": "Fantasia epica",
+    "editorial": "Alamut",
+    "anio_publicacion": 1993
+  },
+  {
+    "titulo": "El oceano al final del camino",
+    "codigo": "LIB181",
+    "autor": "Neil Gaiman",
+    "categoria": "Fantasia",
+    "genero": "Fantasia contemporanea",
+    "editorial": "Salamandra",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "Culpa mia",
+    "codigo": "LIB182",
+    "autor": "Mercedes Ron",
+    "categoria": "Romance juvenil",
+    "genero": "Romance",
+    "editorial": "Montena",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "1984",
+    "codigo": "LIB183",
+    "autor": "George Orwell",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Debolsillo",
+    "anio_publicacion": 1949
+  },
+  {
+    "titulo": "El bestiario de Axlin",
+    "codigo": "LIB184",
+    "autor": "Laura Gallego",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Montena",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Ciudad de hueso",
+    "codigo": "LIB185",
+    "autor": "Cassandra Clare",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia urbana",
+    "editorial": "Destino",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "El jardin de las mariposas",
+    "codigo": "LIB186",
+    "autor": "Dot Hutchison",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Planeta",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Cuento de hadas",
+    "codigo": "LIB187",
+    "autor": "Stephen King",
+    "categoria": "Fantasia",
+    "genero": "Fantasia oscura",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "El problema final",
+    "codigo": "LIB188",
+    "autor": "Arturo Perez-Reverte",
+    "categoria": "Misterio",
+    "genero": "Novela negra",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2023
+  },
+  {
+    "titulo": "Flores para Algernon",
+    "codigo": "LIB189",
+    "autor": "Daniel Keyes",
+    "categoria": "Ciencia ficcion",
+    "genero": "Ficcion especulativa",
+    "editorial": "Minotauro",
+    "anio_publicacion": 1966
+  },
+  {
+    "titulo": "El piso mil",
+    "codigo": "LIB190",
+    "autor": "Katharine McGee",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Montena",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Mujercitas",
+    "codigo": "LIB191",
+    "autor": "Louisa May Alcott",
+    "categoria": "Clasicos",
+    "genero": "Ficcion historica",
+    "editorial": "Austral",
+    "anio_publicacion": 1868
+  },
+  {
+    "titulo": "La reina del aire y la oscuridad",
+    "codigo": "LIB192",
+    "autor": "Cassandra Clare",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia urbana",
+    "editorial": "Destino",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El coleccionista de insectos",
+    "codigo": "LIB193",
+    "autor": "John Fowles",
+    "categoria": "Thriller",
+    "genero": "Suspense psicologico",
+    "editorial": "Anagrama",
+    "anio_publicacion": 1963
+  },
+  {
+    "titulo": "Cuando no queden mas estrellas que contar",
+    "codigo": "LIB194",
+    "autor": "Maria Martinez",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Titania",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Nosotros despues del diluvio",
+    "codigo": "LIB195",
+    "autor": "Dolores Redondo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Destino",
+    "anio_publicacion": 2023
+  },
+  {
+    "titulo": "Juego de tronos",
+    "codigo": "LIB196",
+    "autor": "George R.R. Martin",
+    "categoria": "Fantasia",
+    "genero": "Fantasia epica",
+    "editorial": "Gigamesh",
+    "anio_publicacion": 1996
+  },
+  {
+    "titulo": "Finalmente nosotros",
+    "codigo": "LIB197",
+    "autor": "Mercedes Ron",
+    "categoria": "Romance juvenil",
+    "genero": "Romance",
+    "editorial": "Montena",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "La Odisea",
+    "codigo": "LIB198",
+    "autor": "Homero",
+    "categoria": "Clasicos",
+    "genero": "Epopeya",
+    "editorial": "Gredos",
+    "anio_publicacion": -800
+  },
+  {
+    "titulo": "El arte de enganar al karma",
+    "codigo": "LIB199",
+    "autor": "Elisabet Benavent",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Suma",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "Nunca",
+    "codigo": "LIB200",
+    "autor": "Ken Follett",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "La paciente silenciosa",
+    "codigo": "LIB201",
+    "autor": "Alex Michaelides",
+    "categoria": "Thriller",
+    "genero": "Suspense psicologico",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Aristoteles y Dante descubren los secretos del universo",
+    "codigo": "LIB202",
+    "autor": "Benjamin Alire Saenz",
+    "categoria": "Novela juvenil",
+    "genero": "Coming of age",
+    "editorial": "Planeta",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Boulevard",
+    "codigo": "LIB203",
+    "autor": "Flor M. Salvador",
+    "categoria": "Romance juvenil",
+    "genero": "Romance",
+    "editorial": "Montena",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Un monstruo viene a verme",
+    "codigo": "LIB204",
+    "autor": "Patrick Ness",
+    "categoria": "Fantasia",
+    "genero": "Fantasia contemporanea",
+    "editorial": "Nube de Tinta",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "La casa de los espiritus",
+    "codigo": "LIB205",
+    "autor": "Isabel Allende",
+    "categoria": "Ficcion literaria",
+    "genero": "Realismo magico",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 1982
+  },
+  {
+    "titulo": "El visitante",
+    "codigo": "LIB206",
+    "autor": "Stephen King",
+    "categoria": "Terror",
+    "genero": "Misterio",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El dia que se perdio el amor",
+    "codigo": "LIB207",
+    "autor": "Javier Castillo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Suma",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Romper el circulo",
+    "codigo": "LIB208",
+    "autor": "Colleen Hoover",
+    "categoria": "Romance",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "La novia gitana",
+    "codigo": "LIB209",
+    "autor": "Carmen Mola",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Normal People",
+    "codigo": "LIB210",
+    "autor": "Sally Rooney",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Literatura Random House",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Las tinieblas y el alba",
+    "codigo": "LIB211",
+    "autor": "Ken Follett",
+    "categoria": "Historica",
+    "genero": "Ficcion historica",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Nada",
+    "codigo": "LIB212",
+    "autor": "Carmen Laforet",
+    "categoria": "Clasicos",
+    "genero": "Novela social",
+    "editorial": "Destino",
+    "anio_publicacion": 1944
+  },
+  {
+    "titulo": "Proyecto Hail Mary",
+    "codigo": "LIB213",
+    "autor": "Andy Weir",
+    "categoria": "Ciencia ficcion",
+    "genero": "Hard sci-fi",
+    "editorial": "Nova",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "El problema de los tres cuerpos",
+    "codigo": "LIB214",
+    "autor": "Liu Cixin",
+    "categoria": "Ciencia ficcion",
+    "genero": "Hard sci-fi",
+    "editorial": "Nova",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "El principe de la niebla",
+    "codigo": "LIB215",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Misterio",
+    "genero": "Terror",
+    "editorial": "Planeta",
+    "anio_publicacion": 1993
+  },
+  {
+    "titulo": "Violeta",
+    "codigo": "LIB216",
+    "autor": "Isabel Allende",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "El husar",
+    "codigo": "LIB217",
+    "autor": "Arturo Perez-Reverte",
+    "categoria": "Historica",
+    "genero": "Belica",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 1986
+  },
+  {
+    "titulo": "El club de las 5 de la manana",
+    "codigo": "LIB218",
+    "autor": "Robin Sharma",
+    "categoria": "Autoayuda",
+    "genero": "Desarrollo personal",
+    "editorial": "Grijalbo",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "La cancion de Aquiles",
+    "codigo": "LIB219",
+    "autor": "Madeline Miller",
+    "categoria": "Ficcion historica",
+    "genero": "Mitologia",
+    "editorial": "AdN",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "El caballero de la armadura oxidada",
+    "codigo": "LIB220",
+    "autor": "Robert Fisher",
+    "categoria": "Autoayuda",
+    "genero": "Fabula",
+    "editorial": "Obelisco",
+    "anio_publicacion": 1987
+  },
+  {
+    "titulo": "Loba negra",
+    "codigo": "LIB221",
+    "autor": "Juan Gomez-Jurado",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "La verdad sobre el caso Harry Quebert",
+    "codigo": "LIB222",
+    "autor": "Joel Dicker",
+    "categoria": "Misterio",
+    "genero": "Thriller",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Sapiens: De animales a dioses",
+    "codigo": "LIB223",
+    "autor": "Yuval Noah Harari",
+    "categoria": "No ficcion",
+    "genero": "Historia",
+    "editorial": "Debate",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "Circe",
+    "codigo": "LIB224",
+    "autor": "Madeline Miller",
+    "categoria": "Ficcion historica",
+    "genero": "Mitologia",
+    "editorial": "AdN",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Donde los arboles cantan",
+    "codigo": "LIB225",
+    "autor": "Laura Gallego",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "SM",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "El poder del ahora",
+    "codigo": "LIB226",
+    "autor": "Eckhart Tolle",
+    "categoria": "Autoayuda",
+    "genero": "Espiritualidad",
+    "editorial": "Gaia",
+    "anio_publicacion": 1997
+  },
+  {
+    "titulo": "Cinco semanas en globo",
+    "codigo": "LIB227",
+    "autor": "Julio Verne",
+    "categoria": "Aventura",
+    "genero": "Clasico",
+    "editorial": "Alianza",
+    "anio_publicacion": 1863
+  },
+  {
+    "titulo": "El dia que Dios entro en el banco",
+    "codigo": "LIB228",
+    "autor": "Eduardo del Llano",
+    "categoria": "Humor",
+    "genero": "Satira",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Rey blanco",
+    "codigo": "LIB229",
+    "autor": "Juan Gomez-Jurado",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Cien anos de soledad",
+    "codigo": "LIB230",
+    "autor": "Gabriel Garcia Marquez",
+    "categoria": "Ficcion literaria",
+    "genero": "Realismo magico",
+    "editorial": "Catedra",
+    "anio_publicacion": 1967
+  },
+  {
+    "titulo": "La ladrona de libros",
+    "codigo": "LIB231",
+    "autor": "Markus Zusak",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Lumen",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "La ciudad de vapor",
+    "codigo": "LIB232",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Ficcion",
+    "genero": "Relatos",
+    "editorial": "Planeta",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Nosotros en la luna",
+    "codigo": "LIB233",
+    "autor": "Alice Kellen",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Planeta",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Las madres",
+    "codigo": "LIB234",
+    "autor": "Carmen Mola",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "La vida invisible de Addie LaRue",
+    "codigo": "LIB235",
+    "autor": "V.E. Schwab",
+    "categoria": "Fantasia",
+    "genero": "Fantasia historica",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Todo esto te dare",
+    "codigo": "LIB236",
+    "autor": "Dolores Redondo",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "La buena suerte",
+    "codigo": "LIB237",
+    "autor": "Rosa Montero",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El enigma de la habitacion 622",
+    "codigo": "LIB238",
+    "autor": "Joel Dicker",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El jardin olvidado",
+    "codigo": "LIB239",
+    "autor": "Kate Morton",
+    "categoria": "Misterio",
+    "genero": "Ficcion historica",
+    "editorial": "Suma",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "Perfectos mentirosos",
+    "codigo": "LIB240",
+    "autor": "Alex Mirez",
+    "categoria": "Romance juvenil",
+    "genero": "Drama",
+    "editorial": "Montena",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "El cuento de la criada",
+    "codigo": "LIB241",
+    "autor": "Margaret Atwood",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Salamandra",
+    "anio_publicacion": 1985
+  },
+  {
+    "titulo": "Patria",
+    "codigo": "LIB242",
+    "autor": "Fernando Aramburu",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama social",
+    "editorial": "Tusquets",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "La naranja mecanica",
+    "codigo": "LIB243",
+    "autor": "Anthony Burgess",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Minotauro",
+    "anio_publicacion": 1962
+  },
+  {
+    "titulo": "El alquimista",
+    "codigo": "LIB244",
+    "autor": "Paulo Coelho",
+    "categoria": "Ficcion",
+    "genero": "Novela filosofica",
+    "editorial": "Planeta",
+    "anio_publicacion": 1988
+  },
+  {
+    "titulo": "Las hijas del Capitan",
+    "codigo": "LIB245",
+    "autor": "Maria Duenas",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "codigo": "LIB246",
+    "autor": "Ray Bradbury",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Minotauro",
+    "anio_publicacion": 1953
+  },
+  {
+    "titulo": "El instituto",
+    "codigo": "LIB247",
+    "autor": "Stephen King",
+    "categoria": "Terror",
+    "genero": "Thriller",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El color de la magia",
+    "codigo": "LIB248",
+    "autor": "Terry Pratchett",
+    "categoria": "Fantasia",
+    "genero": "Fantasia humoristica",
+    "editorial": "Debolsillo",
+    "anio_publicacion": 1983
+  },
+  {
+    "titulo": "Roma soy yo",
+    "codigo": "LIB249",
+    "autor": "Santiago Posteguillo",
+    "categoria": "Historica",
+    "genero": "Ficcion historica",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "El senor de las moscas",
+    "codigo": "LIB250",
+    "autor": "William Golding",
+    "categoria": "Clasicos",
+    "genero": "Novela psicologica",
+    "editorial": "Alianza",
+    "anio_publicacion": 1954
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "codigo": "LIB251",
+    "autor": "Jane Austen",
+    "categoria": "Clasicos",
+    "genero": "Romance",
+    "editorial": "Austral",
+    "anio_publicacion": 1813
+  },
+  {
+    "titulo": "El dia que dejo de nevar en Alaska",
+    "codigo": "LIB252",
+    "autor": "Alice Kellen",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Titania",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Un lugar llamado Antano",
+    "codigo": "LIB253",
+    "autor": "Olga Tokarczuk",
+    "categoria": "Ficcion literaria",
+    "genero": "Realismo magico",
+    "editorial": "Anagrama",
+    "anio_publicacion": 1996
+  },
+  {
+    "titulo": "Estacion Once",
+    "codigo": "LIB254",
+    "autor": "Emily St. John Mandel",
+    "categoria": "Ciencia ficcion",
+    "genero": "Post-apocaliptico",
+    "editorial": "Kailas",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "Los siete maridos de Evelyn Hugo",
+    "codigo": "LIB255",
+    "autor": "Taylor Jenkins Reid",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Yo, Julia",
+    "codigo": "LIB256",
+    "autor": "Santiago Posteguillo",
+    "categoria": "Historica",
+    "genero": "Ficcion historica",
+    "editorial": "Planeta",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "codigo": "LIB257",
+    "autor": "Fiodor Dostoyevski",
+    "categoria": "Clasicos",
+    "genero": "Novela psicologica",
+    "editorial": "Alianza",
+    "anio_publicacion": 1866
+  },
+  {
+    "titulo": "El libro negro de las horas",
+    "codigo": "LIB258",
+    "autor": "Eva Garcia Saenz de Urturi",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Planeta",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Ocho apellidos vascos",
+    "codigo": "LIB259",
+    "autor": "Pablo Santana",
+    "categoria": "Humor",
+    "genero": "Comedia",
+    "editorial": "Espasa",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "Dime quien soy",
+    "codigo": "LIB260",
+    "autor": "Julia Navarro",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2010
+  },
+  {
+    "titulo": "El bosque de los cuatro vientos",
+    "codigo": "LIB261",
+    "autor": "Maria Oruna",
+    "categoria": "Misterio",
+    "genero": "Thriller",
+    "editorial": "Destino",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Habitos atomicos",
+    "codigo": "LIB262",
+    "autor": "James Clear",
+    "categoria": "Autoayuda",
+    "genero": "Desarrollo personal",
+    "editorial": "Paidos",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Las hijas de la tierra",
+    "codigo": "LIB263",
+    "autor": "Sandra Barneda",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Suma",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El hogar de Miss Peregrine para ninos peculiares",
+    "codigo": "LIB264",
+    "autor": "Ransom Riggs",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Planeta",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "El guardian invisible",
+    "codigo": "LIB265",
+    "autor": "Dolores Redondo",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Destino",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "Rayuela",
+    "codigo": "LIB266",
+    "autor": "Julio Cortazar",
+    "categoria": "Ficcion literaria",
+    "genero": "Experimental",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 1963
+  },
+  {
+    "titulo": "Nosotros",
+    "codigo": "LIB267",
+    "autor": "Yevgueni Zamiatin",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Catedra",
+    "anio_publicacion": 1924
+  },
+  {
+    "titulo": "El ultimo adios",
+    "codigo": "LIB268",
+    "autor": "Kate Morton",
+    "categoria": "Misterio",
+    "genero": "Ficcion historica",
+    "editorial": "Suma",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Todo lo que somos juntos",
+    "codigo": "LIB269",
+    "autor": "Alice Kellen",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Planeta",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El retrato de Dorian Gray",
+    "codigo": "LIB270",
+    "autor": "Oscar Wilde",
+    "categoria": "Clasicos",
+    "genero": "Novela gotica",
+    "editorial": "Alianza",
+    "anio_publicacion": 1890
+  },
+  {
+    "titulo": "El libro de los Baltimore",
+    "codigo": "LIB271",
+    "autor": "Joel Dicker",
+    "categoria": "Thriller",
+    "genero": "Drama",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Los testamentos",
+    "codigo": "LIB272",
+    "autor": "Margaret Atwood",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Salamandra",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "La sonata del silencio",
+    "codigo": "LIB273",
+    "autor": "Paloma Sanchez-Garnica",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "Tirano Banderas",
+    "codigo": "LIB274",
+    "autor": "Ramon del Valle-Inclan",
+    "categoria": "Clasicos",
+    "genero": "Novela historica",
+    "editorial": "Espasa Calpe",
+    "anio_publicacion": 1926
+  },
+  {
+    "titulo": "El viaje de Cilka",
+    "codigo": "LIB275",
+    "autor": "Heather Morris",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Espasa",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Un amor",
+    "codigo": "LIB276",
+    "autor": "Sara Mesa",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Anagrama",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Del color de la leche",
+    "codigo": "LIB277",
+    "autor": "Nell Leyshon",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Sexto Piso",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "A dos metros de ti",
+    "codigo": "LIB278",
+    "autor": "Rachael Lippincott",
+    "categoria": "Romance juvenil",
+    "genero": "Drama",
+    "editorial": "Nube de Tinta",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "La chica de nieve",
+    "codigo": "LIB279",
+    "autor": "Javier Castillo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Suma",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El juego del angel",
+    "codigo": "LIB280",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Misterio",
+    "genero": "Suspense",
+    "editorial": "Planeta",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "Cadaver exquisito",
+    "codigo": "LIB281",
+    "autor": "Agustina Bazterrica",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Somos polvo de estrellas",
+    "codigo": "LIB282",
+    "autor": "Jose Maria Maza",
+    "categoria": "No ficcion",
+    "genero": "Divulgacion cientifica",
+    "editorial": "Planeta",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Eramos unos ninos",
+    "codigo": "LIB283",
+    "autor": "Patti Smith",
+    "categoria": "No ficcion",
+    "genero": "Memorias",
+    "editorial": "Lumen",
+    "anio_publicacion": 2010
+  },
+  {
+    "titulo": "Terra Alta",
+    "codigo": "LIB284",
+    "autor": "Javier Cercas",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Planeta",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Los asquerosos",
+    "codigo": "LIB285",
+    "autor": "Santiago Lorenzo",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Comedia negra",
+    "editorial": "Blackie Books",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Seis de cuervos",
+    "codigo": "LIB286",
+    "autor": "Leigh Bardugo",
+    "categoria": "Fantasia juvenil",
+    "genero": "Fantasia",
+    "editorial": "Hidra",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "El olvido que seremos",
+    "codigo": "LIB287",
+    "autor": "Hector Abad Faciolince",
+    "categoria": "No ficcion",
+    "genero": "Memorias",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "Pedro Paramo",
+    "codigo": "LIB288",
+    "autor": "Juan Rulfo",
+    "categoria": "Clasicos",
+    "genero": "Realismo magico",
+    "editorial": "Catedra",
+    "anio_publicacion": 1955
+  },
+  {
+    "titulo": "Herejes",
+    "codigo": "LIB289",
+    "autor": "Leonardo Padura",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Tusquets",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "El curioso incidente del perro a medianoche",
+    "codigo": "LIB290",
+    "autor": "Mark Haddon",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Misterio",
+    "editorial": "Salamandra",
+    "anio_publicacion": 2003
+  },
+  {
+    "titulo": "El ruido de las cosas al caer",
+    "codigo": "LIB291",
+    "autor": "Juan Gabriel Vasquez",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2011
+  },
+  {
+    "titulo": "La quinta mujer",
+    "codigo": "LIB292",
+    "autor": "Henning Mankell",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Tusquets",
+    "anio_publicacion": 1996
+  },
+  {
+    "titulo": "Y las montanas hablaron",
+    "codigo": "LIB293",
+    "autor": "Khaled Hosseini",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Salamandra",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "El manuscrito de fuego",
+    "codigo": "LIB294",
+    "autor": "Luis Garcia Jambrina",
+    "categoria": "Historica",
+    "genero": "Misterio",
+    "editorial": "Espasa",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El mapa de los afectos",
+    "codigo": "LIB295",
+    "autor": "Ana Merino",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Destino",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El nino con el pijama de rayas",
+    "codigo": "LIB296",
+    "autor": "John Boyne",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Salamandra",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "La verdad sobre el caso Savolta",
+    "codigo": "LIB297",
+    "autor": "Eduardo Mendoza",
+    "categoria": "Historica",
+    "genero": "Novela negra",
+    "editorial": "Seix Barral",
+    "anio_publicacion": 1975
+  },
+  {
+    "titulo": "Hamnet",
+    "codigo": "LIB298",
+    "autor": "Maggie O'Farrell",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Libros del Asteroide",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Tiempos recios",
+    "codigo": "LIB299",
+    "autor": "Mario Vargas Llosa",
+    "categoria": "Ficcion historica",
+    "genero": "Politica",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El pais de las mujeres",
+    "codigo": "LIB300",
+    "autor": "Gioconda Belli",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Politica",
+    "editorial": "Seix Barral",
+    "anio_publicacion": 2010
+  },
+  {
+    "titulo": "Linea de fuego",
+    "codigo": "LIB301",
+    "autor": "Arturo Perez-Reverte",
+    "categoria": "Historica",
+    "genero": "Belica",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Aquitania",
+    "codigo": "LIB302",
+    "autor": "Eva Garcia Saenz de Urturi",
+    "categoria": "Historica",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "La Iliada",
+    "codigo": "LIB303",
+    "autor": "Homero",
+    "categoria": "Clasicos",
+    "genero": "Epopeya",
+    "editorial": "Gredos",
+    "anio_publicacion": -750
+  },
+  {
+    "titulo": "Dracula",
+    "codigo": "LIB304",
+    "autor": "Bram Stoker",
+    "categoria": "Terror",
+    "genero": "Gotico",
+    "editorial": "Austral",
+    "anio_publicacion": 1897
+  },
+  {
+    "titulo": "Tu y yo, invencibles",
+    "codigo": "LIB305",
+    "autor": "Alice Kellen",
+    "categoria": "Romance",
+    "genero": "Romance contemporaneo",
+    "editorial": "Planeta",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "El latido de la tierra",
+    "codigo": "LIB306",
+    "autor": "Luz Gabas",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El italiano",
+    "codigo": "LIB307",
+    "autor": "Arturo Perez-Reverte",
+    "categoria": "Historica",
+    "genero": "Romance",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "Los renglones torcidos de Dios",
+    "codigo": "LIB308",
+    "autor": "Torcuato Luca de Tena",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 1979
+  },
+  {
+    "titulo": "Una magia improbable",
+    "codigo": "LIB309",
+    "autor": "Ana Merino",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Destino",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Las tinieblas y el alba",
+    "codigo": "LIB310",
+    "autor": "Ken Follett",
+    "categoria": "Historica",
+    "genero": "Ficcion historica",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El Zorro",
+    "codigo": "LIB311",
+    "autor": "Isabel Allende",
+    "categoria": "Aventura",
+    "genero": "Historica",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "Lejos del corazon",
+    "codigo": "LIB312",
+    "autor": "Lorenzo Silva",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Destino",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Tan poca vida",
+    "codigo": "LIB313",
+    "autor": "Hanya Yanagihara",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Lumen",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Las ocho montanas",
+    "codigo": "LIB314",
+    "autor": "Paolo Cognetti",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Literatura Random House",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Sira",
+    "codigo": "LIB315",
+    "autor": "Maria Duenas",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "Loba negra",
+    "codigo": "LIB316",
+    "autor": "Juan Gomez-Jurado",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El corazon con que vivo",
+    "codigo": "LIB317",
+    "autor": "Jose Maria Perez Peridis",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Espasa",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Las invisibles",
+    "codigo": "LIB318",
+    "autor": "Roy Galan",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Contraluz",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "El jardin de las mariposas",
+    "codigo": "LIB319",
+    "autor": "Dot Hutchison",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Berta Isla",
+    "codigo": "LIB320",
+    "autor": "Javier Marias",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "El jardin olvidado",
+    "codigo": "LIB321",
+    "autor": "Kate Morton",
+    "categoria": "Ficcion historica",
+    "genero": "Misterio",
+    "editorial": "Suma",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "La luz que no puedes ver",
+    "codigo": "LIB322",
+    "autor": "Anthony Doerr",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Suma",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "Homo Deus: Breve historia del manana",
+    "codigo": "LIB323",
+    "autor": "Yuval Noah Harari",
+    "categoria": "No ficcion",
+    "genero": "Divulgacion cientifica",
+    "editorial": "Debate",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "La cofradia de la uva",
+    "codigo": "LIB324",
+    "autor": "John Fante",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Anagrama",
+    "anio_publicacion": 1977
+  },
+  {
+    "titulo": "La colina de Watership",
+    "codigo": "LIB325",
+    "autor": "Richard Adams",
+    "categoria": "Fantasia",
+    "genero": "Aventura",
+    "editorial": "Seix Barral",
+    "anio_publicacion": 1972
+  },
+  {
+    "titulo": "Los surcos del azar",
+    "codigo": "LIB326",
+    "autor": "Paco Roca",
+    "categoria": "Novela grafica",
+    "genero": "Historica",
+    "editorial": "Astiberri",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "El legado de la villa de las telas",
+    "codigo": "LIB327",
+    "autor": "Anne Jacobs",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Las almas de Brandon",
+    "codigo": "LIB328",
+    "autor": "Cesar Brandon",
+    "categoria": "Poesia",
+    "genero": "Poesia contemporanea",
+    "editorial": "Espasa",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El pintor de almas",
+    "codigo": "LIB329",
+    "autor": "Ildefonso Falcones",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Grijalbo",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Ines del alma mia",
+    "codigo": "LIB330",
+    "autor": "Isabel Allende",
+    "categoria": "Ficcion historica",
+    "genero": "Biografia novelada",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2006
+  },
+  {
+    "titulo": "Los crimenes de Alicia",
+    "codigo": "LIB331",
+    "autor": "Guillermo Martinez",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Destino",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Annabel Lee",
+    "codigo": "LIB332",
+    "autor": "Edgar Allan Poe",
+    "categoria": "Poesia",
+    "genero": "Poesia gotica",
+    "editorial": "Catedra",
+    "anio_publicacion": 1849
+  },
+  {
+    "titulo": "El gran Gatsby",
+    "codigo": "LIB333",
+    "autor": "F. Scott Fitzgerald",
+    "categoria": "Clasicos",
+    "genero": "Drama",
+    "editorial": "Anagrama",
+    "anio_publicacion": 1925
+  },
+  {
+    "titulo": "La ridicula idea de no volver a verte",
+    "codigo": "LIB334",
+    "autor": "Rosa Montero",
+    "categoria": "No ficcion",
+    "genero": "Ensayo",
+    "editorial": "Seix Barral",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "La cara norte del corazon",
+    "codigo": "LIB335",
+    "autor": "Dolores Redondo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Destino",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "La madre de Frankenstein",
+    "codigo": "LIB336",
+    "autor": "Almudena Grandes",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Tusquets",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El mundo de Sofia",
+    "codigo": "LIB337",
+    "autor": "Jostein Gaarder",
+    "categoria": "Ficcion filosofica",
+    "genero": "Novela filosofica",
+    "editorial": "Siruela",
+    "anio_publicacion": 1991
+  },
+  {
+    "titulo": "Olvidado Rey Gudu",
+    "codigo": "LIB338",
+    "autor": "Ana Maria Matute",
+    "categoria": "Fantasia",
+    "genero": "Fantasia epica",
+    "editorial": "Destino",
+    "anio_publicacion": 1996
+  },
+  {
+    "titulo": "La anomalia",
+    "codigo": "LIB339",
+    "autor": "Herve Le Tellier",
+    "categoria": "Ciencia ficcion",
+    "genero": "Ficcion especulativa",
+    "editorial": "Seix Barral",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El reino",
+    "codigo": "LIB340",
+    "autor": "Emmanuel Carrere",
+    "categoria": "No ficcion",
+    "genero": "Historia",
+    "editorial": "Anagrama",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "La ultima noche en Tremore Beach",
+    "codigo": "LIB341",
+    "autor": "Mikel Santiago",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "Arena negra",
+    "codigo": "LIB342",
+    "autor": "Cristina A. Cerezo",
+    "categoria": "Fantasia",
+    "genero": "Fantasia romantica",
+    "editorial": "Titania",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "El tiempo entre costuras",
+    "codigo": "LIB343",
+    "autor": "Maria Duenas",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2009
+  },
+  {
+    "titulo": "El maestro del Prado",
+    "codigo": "LIB344",
+    "autor": "Javier Sierra",
+    "categoria": "Ficcion historica",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2013
+  },
+  {
+    "titulo": "La carne",
+    "codigo": "LIB345",
+    "autor": "Rosa Montero",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "La Biblia de barro",
+    "codigo": "LIB346",
+    "autor": "Julia Navarro",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "El legado de los espias",
+    "codigo": "LIB347",
+    "autor": "John Le Carre",
+    "categoria": "Thriller",
+    "genero": "Espionaje",
+    "editorial": "Planeta",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "codigo": "LIB348",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Clasicos",
+    "genero": "Novela de caballerias",
+    "editorial": "Catedra",
+    "anio_publicacion": 1605
+  },
+  {
+    "titulo": "Exhalacion",
+    "codigo": "LIB349",
+    "autor": "Ted Chiang",
+    "categoria": "Ciencia ficcion",
+    "genero": "Relatos",
+    "editorial": "Sexto Piso",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Mil soles esplendidos",
+    "codigo": "LIB350",
+    "autor": "Khaled Hosseini",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Salamandra",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "La sombra del viento",
+    "codigo": "LIB351",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2001
+  },
+  {
+    "titulo": "El guardian entre el centeno",
+    "codigo": "LIB352",
+    "autor": "J.D. Salinger",
+    "categoria": "Clasicos",
+    "genero": "Coming-of-age",
+    "editorial": "Alianza Editorial",
+    "anio_publicacion": 1951
+  },
+  {
+    "titulo": "La verdad sobre el caso Harry Quebert",
+    "codigo": "LIB353",
+    "autor": "Joel Dicker",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Momo",
+    "codigo": "LIB354",
+    "autor": "Michael Ende",
+    "categoria": "Fantasia",
+    "genero": "Infantil",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 1973
+  },
+  {
+    "titulo": "Los asquerosos",
+    "codigo": "LIB355",
+    "autor": "Santiago Lorenzo",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Comedia",
+    "editorial": "Blackie Books",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Patria",
+    "codigo": "LIB356",
+    "autor": "Fernando Aramburu",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Tusquets",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Ordesa",
+    "codigo": "LIB357",
+    "autor": "Manuel Vilas",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Autobiografico",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El infinito en un junco",
+    "codigo": "LIB358",
+    "autor": "Irene Vallejo",
+    "categoria": "No ficcion",
+    "genero": "Ensayo",
+    "editorial": "Siruela",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "Sapiens: De animales a dioses",
+    "codigo": "LIB359",
+    "autor": "Yuval Noah Harari",
+    "categoria": "No ficcion",
+    "genero": "Historia",
+    "editorial": "Debate",
+    "anio_publicacion": 2014
+  },
+  {
+    "titulo": "El dia que se perdio la cordura",
+    "codigo": "LIB360",
+    "autor": "Javier Castillo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Suma",
+    "anio_publicacion": 2017
+  },
+  {
+    "titulo": "La chica del tren",
+    "codigo": "LIB361",
+    "autor": "Paula Hawkins",
+    "categoria": "Thriller",
+    "genero": "Suspense psicologico",
+    "editorial": "Planeta",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "Antes de diciembre",
+    "codigo": "LIB362",
+    "autor": "Joana Marcus",
+    "categoria": "Romance",
+    "genero": "New Adult",
+    "editorial": "Montena",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "La vida invisible de Addie LaRue",
+    "codigo": "LIB363",
+    "autor": "V.E. Schwab",
+    "categoria": "Fantasia",
+    "genero": "Fantasia historica",
+    "editorial": "Umbriel",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Reina Roja",
+    "codigo": "LIB364",
+    "autor": "Juan Gomez-Jurado",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "El Hobbit",
+    "codigo": "LIB365",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Fantasia",
+    "genero": "Aventura",
+    "editorial": "Minotauro",
+    "anio_publicacion": 1937
+  },
+  {
+    "titulo": "Los juegos del hambre",
+    "codigo": "LIB366",
+    "autor": "Suzanne Collins",
+    "categoria": "Ciencia ficcion",
+    "genero": "Distopia",
+    "editorial": "Molino",
+    "anio_publicacion": 2008
+  },
+  {
+    "titulo": "La noche en que Frankenstein leyo el Quijote",
+    "codigo": "LIB367",
+    "autor": "Santiago Posteguillo",
+    "categoria": "No ficcion",
+    "genero": "Ensayo literario",
+    "editorial": "Planeta",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Roma soy yo",
+    "codigo": "LIB368",
+    "autor": "Santiago Posteguillo",
+    "categoria": "Ficcion historica",
+    "genero": "Novela historica",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "La trilogia de la niebla",
+    "codigo": "LIB369",
+    "autor": "Carlos Ruiz Zafon",
+    "categoria": "Terror",
+    "genero": "Gotico",
+    "editorial": "Planeta",
+    "anio_publicacion": 2007
+  },
+  {
+    "titulo": "Invisible",
+    "codigo": "LIB370",
+    "autor": "Eloy Moreno",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Nube de Tinta",
+    "anio_publicacion": 2018
+  },
+  {
+    "titulo": "Tierra",
+    "codigo": "LIB371",
+    "autor": "Eloy Moreno",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "La ladrona de libros",
+    "codigo": "LIB372",
+    "autor": "Markus Zusak",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Lumen",
+    "anio_publicacion": 2005
+  },
+  {
+    "titulo": "La paciente silenciosa",
+    "codigo": "LIB373",
+    "autor": "Alex Michaelides",
+    "categoria": "Thriller",
+    "genero": "Suspense psicologico",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "La isla de Alice",
+    "codigo": "LIB374",
+    "autor": "Daniel Sanchez Arevalo",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Planeta",
+    "anio_publicacion": 2015
+  },
+  {
+    "titulo": "El camino del fuego",
+    "codigo": "LIB375",
+    "autor": "Maria Oruna",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Destino",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Un cuento perfecto",
+    "codigo": "LIB376",
+    "autor": "Elisabet Benavent",
+    "categoria": "Romance",
+    "genero": "Comedia romantica",
+    "editorial": "Suma",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "La buena suerte",
+    "codigo": "LIB377",
+    "autor": "Rosa Montero",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "El silencio de la ciudad blanca",
+    "codigo": "LIB378",
+    "autor": "Eva Garcia Saenz de Urturi",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Planeta",
+    "anio_publicacion": 2016
+  },
+  {
+    "titulo": "Todo lo que nunca fuimos",
+    "codigo": "LIB379",
+    "autor": "Alice Kellen",
+    "categoria": "Romance",
+    "genero": "New Adult",
+    "editorial": "Planeta",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "El libro negro de las horas",
+    "codigo": "LIB380",
+    "autor": "Eva Garcia Saenz de Urturi",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Planeta",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Cometas en el cielo",
+    "codigo": "LIB381",
+    "autor": "Khaled Hosseini",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Salamandra",
+    "anio_publicacion": 2003
+  },
+  {
+    "titulo": "Hamnet",
+    "codigo": "LIB382",
+    "autor": "Maggie O'Farrell",
+    "categoria": "Ficcion historica",
+    "genero": "Biografia novelada",
+    "editorial": "Libros del Asteroide",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Los cuatro vientos",
+    "codigo": "LIB383",
+    "autor": "Kristin Hannah",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Suma",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "El problema final",
+    "codigo": "LIB384",
+    "autor": "Arturo Perez-Reverte",
+    "categoria": "Thriller",
+    "genero": "Misterio",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2023
+  },
+  {
+    "titulo": "El cuco de cristal",
+    "codigo": "LIB385",
+    "autor": "Javier Castillo",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Suma",
+    "anio_publicacion": 2023
+  },
+  {
+    "titulo": "La biblioteca de la medianoche",
+    "codigo": "LIB386",
+    "autor": "Matt Haig",
+    "categoria": "Fantasia",
+    "genero": "Ficcion especulativa",
+    "editorial": "AdN",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "La casa alemana",
+    "codigo": "LIB387",
+    "autor": "Annette Hess",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2019
+  },
+  {
+    "titulo": "La sangre manda",
+    "codigo": "LIB388",
+    "autor": "Stephen King",
+    "categoria": "Terror",
+    "genero": "Suspense",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2020
+  },
+  {
+    "titulo": "Los privilegios del angel",
+    "codigo": "LIB389",
+    "autor": "Dolores Redondo",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Destino",
+    "anio_publicacion": 2009
+  },
+  {
+    "titulo": "Las madres",
+    "codigo": "LIB390",
+    "autor": "Carmen Mola",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "Las mujeres que hay en mi",
+    "codigo": "LIB391",
+    "autor": "Maria de la Pau Janer",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2002
+  },
+  {
+    "titulo": "La hora de las gaviotas",
+    "codigo": "LIB392",
+    "autor": "Ibon Martin",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Plaza & Janes",
+    "anio_publicacion": 2023
+  },
+  {
+    "titulo": "El Lazarillo de Tormes",
+    "codigo": "LIB393",
+    "autor": "Anonimo",
+    "categoria": "Clasicos",
+    "genero": "Picaresca",
+    "editorial": "Catedra",
+    "anio_publicacion": 1554
+  },
+  {
+    "titulo": "Ultimos dias en Berlin",
+    "codigo": "LIB394",
+    "autor": "Paloma Sanchez-Garnica",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2021
+  },
+  {
+    "titulo": "Esperando al diluvio",
+    "codigo": "LIB395",
+    "autor": "Dolores Redondo",
+    "categoria": "Thriller",
+    "genero": "Novela negra",
+    "editorial": "Destino",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "La historia interminable",
+    "codigo": "LIB396",
+    "autor": "Michael Ende",
+    "categoria": "Fantasia",
+    "genero": "Aventura",
+    "editorial": "Alfaguara",
+    "anio_publicacion": 1979
+  },
+  {
+    "titulo": "Lejos de Luisiana",
+    "codigo": "LIB397",
+    "autor": "Luz Gabas",
+    "categoria": "Ficcion historica",
+    "genero": "Drama",
+    "editorial": "Planeta",
+    "anio_publicacion": 2022
+  },
+  {
+    "titulo": "El monje que vendio su Ferrari",
+    "codigo": "LIB398",
+    "autor": "Robin Sharma",
+    "categoria": "Autoayuda",
+    "genero": "Desarrollo personal",
+    "editorial": "DeBolsillo",
+    "anio_publicacion": 1996
+  },
+  {
+    "titulo": "Cuatro por cuatro",
+    "codigo": "LIB399",
+    "autor": "Sara Mesa",
+    "categoria": "Ficcion contemporanea",
+    "genero": "Drama",
+    "editorial": "Anagrama",
+    "anio_publicacion": 2012
+  },
+  {
+    "titulo": "Cicatriz",
+    "codigo": "LIB400",
+    "autor": "Juan Gomez-Jurado",
+    "categoria": "Thriller",
+    "genero": "Suspense",
+    "editorial": "Ediciones B",
+    "anio_publicacion": 2015
+  }
+]
