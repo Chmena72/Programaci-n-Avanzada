@@ -49,7 +49,7 @@ python "Sistema de Biblioteca.py"
 
 ## ✍️ Autor
 
-Desarrollado por [Tu Nombre o Alias].
+Desarrollado por Mime.
 
 ## 📄 Licencia
 
